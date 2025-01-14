@@ -22,7 +22,7 @@ const Testimonials = () => {
                     <div className="flex text-yellow-400 mb-2">
                     ★★★★★
                     </div>
-                    <p className="text-gray-700">"Managing our lending group has never been easier. The automated calculations and tracking have saved me countless hours of work."</p>
+                    <p className="text-gray-700">&quot;Managing our lending group has never been easier. The automated calculations and tracking have saved me countless hours of work.&quot;</p>
                 </div>
                 <p className="text-sm text-gray-500">Managing 50+ members</p>
                 </div>
@@ -40,7 +40,7 @@ const Testimonials = () => {
                     <div className="flex text-yellow-400 mb-2">
                     ★★★★★
                     </div>
-                    <p className="text-gray-700">"The transparency and accuracy of LendWise have helped build trust within our lending community. Highly recommended!"</p>
+                    <p className="text-gray-700">&quot;The transparency and accuracy of LendWise have helped build trust within our lending community. Highly recommended!&quot;</p>
                 </div>
                 <p className="text-sm text-gray-500">Managing 30+ members</p>
                 </div>
@@ -58,7 +58,7 @@ const Testimonials = () => {
                     <div className="flex text-yellow-400 mb-2">
                     ★★★★★
                     </div>
-                    <p className="text-gray-700">"The analytics and reporting features give me complete control over our lending operations. It's a game-changer!"</p>
+                    <p className="text-gray-700">&quot;The analytics and reporting features give me complete control over our lending operations. It&apos;s a game-changer!&quot;</p>
                 </div>
                 <p className="text-sm text-gray-500">Managing 75+ members</p>
                 </div>

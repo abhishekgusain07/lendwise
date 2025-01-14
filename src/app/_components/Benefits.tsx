@@ -62,7 +62,7 @@ const Benefits = () => {
                     </div>
                     <div>
                     <h3 className="text-xl font-semibold mb-2">Advanced Analytics</h3>
-                    <p className="text-gray-300">Get detailed insights into your lending pool's performance with rich analytics</p>
+                    <p className="text-gray-300">Get detailed insights into your lending pool&apos;s performance with rich analytics</p>
                     </div>
                 </div>
 

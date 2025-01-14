@@ -60,7 +60,7 @@ const Features = () => {
                     </svg>
                 </div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-2">Flexible Scheme Management</h3>
-                <p className="text-gray-600">Customize lending terms, interest rates, and duration to suit your group's needs</p>
+                <p className="text-gray-600">Customize lending terms, interest rates, and duration to suit your group&apos;s needs</p>
                 </div>
             </div>
             </div>
